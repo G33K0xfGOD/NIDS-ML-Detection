@@ -1,9 +1,9 @@
 # 🛡️ AI-Driven Network Intrusion Detection System (NIDS)
 
 ## 📝 Vue d'ensemble (Overview)
-Ce projet présente la conception de bout en bout d'un Système de Détection d'Intrusion Réseau (NIDS) propulsé par l'apprentissage automatique. Pour pallier le vieillissement des jeux de données publics, ce projet introduit une méthodologie hybride rigoureuse pour la création d'un dataset moderne et équilibré : la capture d'attaques réelles via des honeypots combinée à la génération de trafic bénin synthétique.
+Ce projet présente la conception d'un Système de Détection d'Intrusion Réseau (NIDS) propulsé par l'apprentissage automatique. Pour pallier le vieillissement des jeux de données publics, ce projet introduit une méthodologie hybride pour la création d'un dataset : la capture d'attaques réelles via des honeypots combinée à la génération de trafic bénin synthétique.
 
-L'ingénierie des caractéristiques (Feature Engineering) suit scrupuleusement la méthodologie du célèbre dataset **UNSW-NB15**, rendant les données prêtes pour l'entraînement de modèles de détection avancés.
+L'ingénierie des caractéristiques (Feature Engineering) suit la méthodologie du célèbre dataset **UNSW-NB15**, rendant les données prêtes pour l'entraînement de modèles de détection avancés.
 
 ## 🚀 Méthodologie et Ingénierie des Données
 
